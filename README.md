@@ -10,6 +10,6 @@ https://tol8901.github.io/pong/
 
 # Screenshots
 
-<img width="506" alt="2" src="https://user-images.githubusercontent.com/39213432/102276210-8ca05100-3f37-11eb-9621-1bdf0fd5798b.png">
-
 <img width="533" alt="1" src="https://user-images.githubusercontent.com/39213432/102276216-8dd17e00-3f37-11eb-94ef-e8b4d4241828.png">
+
+<img width="506" alt="2" src="https://user-images.githubusercontent.com/39213432/102276210-8ca05100-3f37-11eb-9621-1bdf0fd5798b.png">
